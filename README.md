@@ -27,6 +27,4 @@ The project requires the following Python libraries:
 - `NumPy`
 - `Matplotlib`
 
-Install the dependencies using:
-```bash
-pip install tensorflow numpy matplotlib
+
